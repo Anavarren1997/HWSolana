@@ -1,0 +1,9 @@
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\aliasable-ee03ff9a040f1178.rmeta: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\mut_ref.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\boxed.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\string.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\vec.rs
+
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\aliasable-ee03ff9a040f1178.d: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\mut_ref.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\boxed.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\string.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\vec.rs
+
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\lib.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\mut_ref.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\boxed.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\string.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\aliasable-0.1.3\src\vec.rs:

@@ -1,0 +1,1 @@
+C:\Users\Álvaro\ Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\helloworld.dll: C:\Users\Álvaro\ Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\src\lib.rs

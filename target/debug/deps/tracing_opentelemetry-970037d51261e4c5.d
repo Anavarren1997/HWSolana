@@ -1,0 +1,8 @@
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\tracing_opentelemetry-970037d51261e4c5.rmeta: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\layer.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\span_ext.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\tracer.rs
+
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\tracing_opentelemetry-970037d51261e4c5.d: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\layer.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\span_ext.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\tracer.rs
+
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\lib.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\layer.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\span_ext.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-opentelemetry-0.15.0\src\tracer.rs:

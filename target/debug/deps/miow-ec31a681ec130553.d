@@ -1,0 +1,10 @@
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\miow-ec31a681ec130553.rmeta: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\handle.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\overlapped.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\iocp.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\net.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\pipe.rs
+
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\miow-ec31a681ec130553.d: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\handle.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\overlapped.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\iocp.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\net.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\pipe.rs
+
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\lib.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\handle.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\overlapped.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\iocp.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\net.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.3.7\src\pipe.rs:

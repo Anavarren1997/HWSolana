@@ -1,0 +1,9 @@
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\dlopen_derive-a8e9eb7b0d8f9920.dll: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\api.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\multi_api.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\wrapper.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\common.rs
+
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\dlopen_derive-a8e9eb7b0d8f9920.d: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\api.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\multi_api.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\wrapper.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\common.rs
+
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\lib.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\api.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\multi_api.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\wrapper.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\dlopen_derive-0.1.4\src\common.rs:

@@ -1,0 +1,9 @@
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\serde_bytes-8b01ed20016c4e61.rmeta: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytes.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\de.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\ser.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytebuf.rs
+
+c:\Users\Álvaro Navarrete\Desktop\Ingeniería_Informática\solana_developement\prueba1-hello\target\debug\deps\serde_bytes-8b01ed20016c4e61.d: C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\lib.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytes.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\de.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\ser.rs C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytebuf.rs
+
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\lib.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytes.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\de.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\ser.rs:
+C:\Users\Álvaro\ Navarrete\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.6\src\bytebuf.rs:
